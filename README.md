@@ -29,3 +29,18 @@ Elicit requirements from stakeholders.
 Document the requirements.
 Confirm the requirements.
 Prioritize the requirements.
+# design database:
+/*
+   12 June 202417:49:37
+   User: 
+   Server: LAPTOP-K9HINDDS
+   Database: learning
+   Application: 
+*/
+
+registration
+enrollment
+course
+profile
+
+
