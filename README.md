@@ -1,4 +1,4 @@
-project : Online ilearning platform back-end sysTEM
+project : Online learning platform back-end sysTEM
 
 Description: Develop a scalable  and secure backend system for an  e-learning platform that intergate with an existing learning management system (LMS)
 
